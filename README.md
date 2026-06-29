@@ -12,7 +12,8 @@ I'm excited to collaborate on projects that push the boundaries of human-robot i
 ## SKILLS
 
 **Computed-Aided Design**
-*I'm a CAD specialist with 5+ years of experience centered on mechanical design and rapid prototyping in competitive robotics and medical device design in a variety of software, along with creating proper engineering documentation and drawings; Onshape, SolidWorks, Fusion360.*
+
+I'm a CAD specialist with 5+ years of experience centered on mechanical design and rapid prototyping in competitive robotics and medical device design in a variety of software, along with creating proper engineering documentation and drawings; Onshape, SolidWorks, Fusion360.
 
 **PCB Design**
 I have 2+ years of experience in PCB design in KiCAD and Fusion360 centered on medical device projects.
