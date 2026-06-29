@@ -1,5 +1,5 @@
 <!--Section 1: Introduce yourself-->
-##_ABOUT ME
+## ABOUT ME
 
 Hello! I'm Michael Portillo, a Biomedical Engineering student with a passion for myoelectric prosthetics, powered exoskeletons, and humanoid robotics platforms, including interfaces that connect these devices to the human body.
 
@@ -9,6 +9,6 @@ I'm excited to collaborate on projects that push the boundaries of human-robot i
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-##_SKILLS
+## SKILLS
 
 **- Computed-Aided Design.**
