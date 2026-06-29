@@ -11,4 +11,20 @@ I'm excited to collaborate on projects that push the boundaries of human-robot i
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
 
-**- Computed-Aided Design.**
+**Computed-Aided Design**
+I'm a CAD specialist with 5+ years of experience centered on mechanical design and rapid prototyping in competitive robotics and medical device design in a variety of software, along with creating proper engineering documentation and drawings; Onshape, SolidWorks, Fusion360.
+
+**PCB Design**
+I have 2+ years of experience in PCB design in KiCAD and Fusion360 centered on medical device projects.
+
+**3D printing**
+I have 3+ years of experience in 3D printing for various mechanically-related projects ranging from a coffee bean detection system to laparoscope storage clips and assembly fixtures.
+
+**Programming**
+I have 3+ years of experience in programming in a variety of languages for a variety of projects ranging from statistics in R and matrix calculator in MATLAB to a ECG Classifier machine learning program.
+
+**Bilingual U.S. Citizen**
+I have fluency in both English and Spanish and am currently learning to speak Korean.
+
+<!--Section 2: List 3-4 key projects-->
+## My Projects
