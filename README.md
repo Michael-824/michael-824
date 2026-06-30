@@ -35,7 +35,8 @@ I have fluency in both English and Spanish and am currently learning to speak Ko
 ## PROJECTS
 
 **Mechatronics Laparoscope PCB and Assembly Fixture**
-![image](
+
+![image](0.jpg)
 **Electrocardiogram PCB**
 **Active Intake Mechanism and Scissor Life: 2025 VEXU Robotics**
 **Linear Slider Climber and Tail Scooper: 2024 VEXU Robotics**
