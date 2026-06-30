@@ -7,7 +7,6 @@ I'm particularly motivated by the challenge of integrating biological signals wi
 
 I'm excited to collaborate on projects that push the boundaries of human-robot interaction, control systems, and biomechanical design in healthcare technology.
 
-
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
 
@@ -73,3 +72,11 @@ The project was aimed at designing and manufacturing a robot capable of moving t
 ![image](image (11).png)
 
 The original project was aimed at creating a robot capable of picking up traffic cones and inflated deformed cubes to place onto metal rods and steps of stairs for points in a given match. While this was an off-season project, I designed an entire climbing mechansim composed of rods that sit towards the back of the robot to deploy underneath a partner robot on a tilting platform to life off of the ground via rotation and mechanical advantage. I personally calculated all gearbox ratios to produce the necessary torque to rotate a 105-pound robot off the floor, ran stress-tests on carbon-fiber rods to ensure they could withstand the lateral force in Fusion360, and made CAD drawings of each component needed. While the design wasn't manufactured, it was entirety approved by two mechanical mentors each with 8+ years of industry experience.
+
+## CONTACT INFORMATION
+
+Email: michaeldportilloq@gmail.com
+[Resume](file:///C:/Users/Michael%20Portillo/Downloads/Master%20CV_MP%20(5).pdf)
+[LinkedIn](https://www.linkedin.com/in/michael-portillo-498bb82b1/)
+
+
