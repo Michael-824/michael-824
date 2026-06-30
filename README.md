@@ -76,7 +76,9 @@ The original project was aimed at creating a robot capable of picking up traffic
 ## CONTACT INFORMATION
 
 Email: michaeldportilloq@gmail.com
+
 [Resume](file:///C:/Users/Michael%20Portillo/Downloads/Master%20CV_MP%20(5).pdf)
+
 [LinkedIn](https://www.linkedin.com/in/michael-portillo-498bb82b1/)
 
 
