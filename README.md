@@ -38,38 +38,38 @@ I have fluency in both English and Spanish and am currently learning to speak Ko
 
 ![image](0.jpg)
 ![image](0.png)
-![image](0(1).png)
+![image](0 (1).png)
 
 The project was aimed at developing a PCB to fit required electrical components within a cavity inside a printed laparoscope encasing. The primary idea was to shift towards a system where a surgeon could simply press a button to actuate a mechanical wiper to clean the lens of a laparoscopic device to shorten procedure times and improve surgical safety.
 
-![image](0(2).png)
+![image](0 (2).png)
 
 Coupled with the PCB, the second aspect of the project entailed designing an assembly fixture for the traditional version of the laparoscopic cleaning device. A rotating wire holder inside the device needed to be placed into a very specific cavity and orientation and this fixture allowed for easy manipulation and placing of the piece within a tolerance of +-0.005 inches.
 
 **Echocardiogram PCB**
 
-![image](image(15).png)
-![image](image(14).png)
+![image](image (15).png)
+![image](image (14).png)
 
 The project was aimed at designing and testing low-pass filters, high-pass filters, voltage followers, and instrumentation amplifiers to create a PCB to act as an echocardiogram. As a two-person project, I contributed to designing the necessary circuits in Fusion360 and calculating the values of the resistors and capacitors used to obtain the necessary output, which was tested successfully on an ELVIS II board. Lastly, I soldered the instrumentation amplifiers onto the ordered board.
 
 **Active Intake Mechanism and Scissor Life: 2025 VEXU Robotics**
 
-![image](image(6).png)
-![image](image(5).png)
+![image](image (6).png)
+![image](image (5).png)
 
 The project was aimed at designing and manufacturing a robot capable of placing ring-shaped objects onto stakes to place into specific areas on a 12-foot-by-12-foot field in addition to climbing a ladder for points in a given match. As a mechanical team leader, I contributed to the design of the intake roller mechanism to transfer rings to a conveyor mechanism used to score rings on stakes, which ended up being one of the most efficient systems on the robot. Additionally, I worked alongside an Aerospace PHd student to design and build a scissor lift to reach the top of the ladder and lift the robot above the highest rung on the ladder. In competition, the team was state finalists with myself as the primary robot driver and became 2025 VEX AI World Champions.
 
 **Linear Slider Climber and Tail Scooper: 2024 VEXU Robotics**
 
-![image](image(7).png)
-![image](image(8).png)
-![image](image(9).png)
+![image](image (7).png)
+![image](image (8).png)
+![image](image (9).png)
 
 The project was aimed at designing and manufacturing a robot capable of moving triangular-shaped game objects underneath rectangular goals and climbing a vertical PVC pipe for points in a given match. As a mechanical team leader, I contributed to the design of the linear slider climbing mechanism, which employed linear sliders often seen in FTC, pulleys, and a motor-driven spool to deploy the system. Coupled with a gripping claw, the robot was able to climb up to the third-highest vertical position on the pipe. Additionally, I contributed to the design of a tail scooping mechanism, which took game pieces out of a loading station placed in corners of the field to successfully introduce them into matchplay. In competition, the team became 2024 VEX AI World Champions.
 
 **Forklift Rotation Climber: 2023 FIRST Robotics Competition**
 
-![image](image(11).png)
+![image](image (11).png)
 
 The original project was aimed at creating a robot capable of picking up traffic cones and inflated deformed cubes to place onto metal rods and steps of stairs for points in a given match. While this was an off-season project, I designed an entire climbing mechansim composed of rods that sit towards the back of the robot to deploy underneath a partner robot on a tilting platform to life off of the ground via rotation and mechanical advantage. I personally calculated all gearbox ratios to produce the necessary torque to rotate a 105-pound robot off the floor, ran stress-tests on carbon-fiber rods to ensure they could withstand the lateral force in Fusion360, and made CAD drawings of each component needed. While the design wasn't manufactured, it was entirety approved by two mechanical mentors each with 8+ years of industry experience.
