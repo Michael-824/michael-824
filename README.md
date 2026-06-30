@@ -25,16 +25,21 @@ I have 3+ years of experience in 3D printing for various mechanically-related pr
 
 **Programming**
 
-I have 3+ years of experience in programming in a variety of languages for a variety of projects ranging from statistics in R and matrix calculator in MATLAB to a ECG Classifier machine learning program.
+I have 3+ years of experience in programming for a variety of projects ranging from statistics in R and matrix calculator in MATLAB to a ECG classifier machine learning program in Python.
 
 **Bilingual U.S. Citizen**
 
 I have fluency in both English and Spanish and am currently learning to speak Korean.
 
 <!--Section 2: List 3-4 key projects-->
-## My Projects
+## PROJECTS
 
-
+**Mechatronics Laparoscope PCB and Assembly Fixture**
+![image](
+**Electrocardiogram PCB**
+**Active Intake Mechanism and Scissor Life: 2025 VEXU Robotics**
+**Linear Slider Climber and Tail Scooper: 2024 VEXU Robotics**
+**Forklift Rotation Climber: 2023 FIRST Robotics Competition**
 
 
 
