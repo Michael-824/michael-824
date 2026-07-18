@@ -34,10 +34,9 @@ I'm excited to collaborate on projects that push the boundaries of human-robot i
 ## FEATURED ENGINEERING PROJECTS
 
 ### Automated Laparoscopic Lens-Wiping System & Precision Assembly Fixture
-![image](0.jpg) ![image](0.png) ![image](0 (1).png)
+![image](0.jpg) ![image](0.png) ![image](0 (1).png) ![image](0 (2).png)
 * **The Challenge:** Redesign a laparoscopic surgical housing unit to encapsulate a custom mechatronic PCB within tight internal cavity constraints, enabling automated, single-button lens clearings to improve patient safety.
 * **Mechanical Execution:** Engineered a high-precision manufacturing assembly fixture utilizing SolidWorks. Incorporated strict mechanical snap-fits and friction-fit tolerances of **±0.005 inches** to ensure repeatable, accurate component placement for a critical rotating wire holder mechanism.
-![image](0 (2).png)
 
 ### Analog Signal Conditioning Circuitry (Echocardiogram PCB)
 ![image](image (15).png) ![image](image (14).png)
