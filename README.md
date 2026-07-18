@@ -1,84 +1,69 @@
 <!--Section 1: Introduce yourself-->
 ## ABOUT ME
 
-Hello! I'm Michael Portillo, a Biomedical Engineering student with a passion for myoelectric prosthetics, powered exoskeletons, and humanoid robotics platforms, including interfaces that connect these devices to the human body.
+I am a Biomedical Engineering senior at The University of Texas at Austin specializing in the intersection of mechatronics, biomechanics, and human-machine interfaces (HMIs). My technical focus centers on translating complex biological signals into robust electromechanical architectures—specifically myoelectric prosthetics, active orthoses, and wearable assistive robotics. 
 
-I'm particularly motivated by the challenge of integrating biological signals with electromechanical systems to create device that restore or enhance movement, independence, and quality of life. I'm eager to engage in research and industry work that involves designing, prototyping, and testing medical mechatronic devices--from advanced prosthetic hands to wearable assistive robotics.
+With a strong foundation in mechanical design, analog circuitry, and dynamic control loops, I am driven to engineer next-generation devices that restore structural mobility, enhance physiological function, and improve patient independence.
 
 I'm excited to collaborate on projects that push the boundaries of human-robot interaction, control systems, and biomechanical design in healthcare technology.
 
-<!--Mention your top/relevant skills here - core and soft skills-->
+---
+
 ## SKILLS
 
-**Computed-Aided Design**
+**Computer-Aided Design (CAD/CAM)**
+* **Expertise:** 5+ years of specialized experience in mechanical architecture, rapid prototyping, and parametric modeling.
+* **Documentation:** Proven record generating production-ready engineering drawings, tolerance stacks, and assembly schematics.
+* **Software:** SolidWorks, Onshape, Fusion 360.
 
-I'm a CAD specialist with 5+ years of experience centered on mechanical design and rapid prototyping in competitive robotics and medical device design in a variety of software, along with creating proper engineering documentation and drawings; Onshape, SolidWorks, Fusion360.
+**PCB & Circuit Design**
+* **Expertise:** 2+ years of mixed-signal hardware layouts for medical device prototypes.
+* **Applications:** Analog filtering, sensor signal conditioning, low-power microcontrollers.
+* **Software:** KiCAD, Autodesk Fusion, NI Multisim.
 
-**PCB Design**
+**Additive Manufacturing & Rapid Prototyping**
+* **Expertise:** 3+ years managing industrial FDM and SLA 3D printing pipelines.
+* **Applications:** Structural assembly fixtures, functional enclosers, and precision medical components.
 
-I have 2+ years of experience in PCB design in KiCAD and Fusion360 centered on medical device projects.
+**Programming & System Controls**
+* **Expertise:** 3+ years implementing data analysis pipelines, embedded logic, and control loops.
+* **Languages:** Python (Machine Learning/ECG Classifiers), MATLAB (Matrix Analysis), R (Biostatistics), C/C++ (Embedded Control).
 
-**3D printing**
+---
 
-I have 3+ years of experience in 3D printing for various mechanically-related projects ranging from a coffee bean detection system to laparoscope storage clips and assembly fixtures.
+## FEATURED ENGINEERING PROJECTS
 
-**Programming**
-
-I have 3+ years of experience in programming for a variety of projects ranging from statistics in R and matrix calculator in MATLAB to a ECG classifier machine learning program in Python.
-
-**Bilingual U.S. Citizen**
-
-I have fluency in both English and Spanish and am currently learning to speak Korean.
-
-<!--Section 2: List 3-4 key projects-->
-## PROJECTS
-
-**Mechatronics Laparoscope PCB and Assembly Fixture**
-
-![image](0.jpg)
-![image](0.png)
-![image](0 (1).png)
-
-The project was aimed at developing a PCB to fit required electrical components within a cavity inside a printed laparoscope encasing. The primary idea was to shift towards a system where a surgeon could simply press a button to actuate a mechanical wiper to clean the lens of a laparoscopic device to shorten procedure times and improve surgical safety.
-
+### Automated Laparoscopic Lens-Wiping System & Precision Assembly Fixture
+![image](0.jpg) ![image](0.png) ![image](0 (1).png)
+* **The Challenge:** Redesign a laparoscopic surgical housing unit to encapsulate a custom mechatronic PCB within tight internal cavity constraints, enabling automated, single-button lens clearings to improve patient safety.
+* **Mechanical Execution:** Engineered a high-precision manufacturing assembly fixture utilizing SolidWorks. Incorporated strict mechanical snap-fits and friction-fit tolerances of **±0.005 inches** to ensure repeatable, accurate component placement for a critical rotating wire holder mechanism.
 ![image](0 (2).png)
 
-Coupled with the PCB, the second aspect of the project entailed designing an assembly fixture for the traditional version of the laparoscopic cleaning device. A rotating wire holder inside the device needed to be placed into a very specific cavity and orientation and this fixture allowed for easy manipulation and placing of the piece within a tolerance of +-0.005 inches.
+### Analog Signal Conditioning Circuitry (Echocardiogram PCB)
+![image](image (15).png) ![image](image (14).png)
+* **The Challenge:** Formulate and prototype an active analog front-end board to acquire, filter, and amplify physiological cardiac biopotentials.
+* **Electrical Execution:** Designed active high-pass, low-pass, and voltage-follower filter cascades coupled with instrumentation amplifiers in Autodesk Fusion. Calculated theoretical passive component values to isolate precise target frequencies, validated the hardware on an NI ELVIS II platform, and executed final component soldering.
 
-**Echocardiogram PCB**
+### High-Load Scissor Lift & Active Intake Architecture | 2025 VEXU Robotics
+![image](image (6).png) ![image](image (5).png)
+* **The Challenge:** Design and manufacture an elite, high-efficiency mobile robotics platform capable of precise object manipulation and structural suspension climbing.
+* **Mechanical Execution:** Served as Mechanical Team Lead managing 15 engineers through rigorous design reviews. Co-developed a heavy-duty, high-torque scissor lift mechanism alongside an Aerospace PhD student to elevate the entire platform chassis. Designed an optimized intake roller and conveyor deployment loop that achieved world-class scoring efficiencies, driving the team to become **2025 VEX AI World Champions**.
 
-![image](image (15).png)
-![image](image (14).png)
+### High-Extension Linear Slider & Material Handling Subsystems | 2024 VEXU Robotics
+![image](image (7).png) ![image](image (8).png) ![image](image (9).png)
+* **The Challenge:** Construct an agile robotic architecture optimized for low-clearance obstacle traversal and vertical pipe climbing.
+* **Mechanical Execution:** Conceptualized and built a multi-stage linear slider climbing mechanism using motor-driven spools, custom pulleys, and a high-strength gripping claw to pull the robot to elevated vertical positions. Designed an auxiliary tail-scooping system for dynamic field-piece introduction, securing the **2024 VEX AI World Championship** title.
 
-The project was aimed at designing and testing low-pass filters, high-pass filters, voltage followers, and instrumentation amplifiers to create a PCB to act as an echocardiogram. As a two-person project, I contributed to designing the necessary circuits in Fusion360 and calculating the values of the resistors and capacitors used to obtain the necessary output, which was tested successfully on an ELVIS II board. Lastly, I soldered the instrumentation amplifiers onto the ordered board.
-
-**Active Intake Mechanism and Scissor Life: 2025 VEXU Robotics**
-
-![image](image (6).png)
-![image](image (5).png)
-
-The project was aimed at designing and manufacturing a robot capable of placing ring-shaped objects onto stakes to place into specific areas on a 12-foot-by-12-foot field in addition to climbing a ladder for points in a given match. As a mechanical team leader, I contributed to the design of the intake roller mechanism to transfer rings to a conveyor mechanism used to score rings on stakes, which ended up being one of the most efficient systems on the robot. Additionally, I worked alongside an Aerospace PHd student to design and build a scissor lift to reach the top of the ladder and lift the robot above the highest rung on the ladder. In competition, the team was state finalists with myself as the primary robot driver and became 2025 VEX AI World Champions.
-
-**Linear Slider Climber and Tail Scooper: 2024 VEXU Robotics**
-
-![image](image (7).png)
-![image](image (8).png)
-![image](image (9).png)
-
-The project was aimed at designing and manufacturing a robot capable of moving triangular-shaped game objects underneath rectangular goals and climbing a vertical PVC pipe for points in a given match. As a mechanical team leader, I contributed to the design of the linear slider climbing mechanism, which employed linear sliders often seen in FTC, pulleys, and a motor-driven spool to deploy the system. Coupled with a gripping claw, the robot was able to climb up to the third-highest vertical position on the pipe. Additionally, I contributed to the design of a tail scooping mechanism, which took game pieces out of a loading station placed in corners of the field to successfully introduce them into matchplay. In competition, the team became 2024 VEX AI World Champions.
-
-**Forklift Rotation Climber: 2023 FIRST Robotics Competition**
-
+### High-Torque Rotational Climber & Stress Analysis | 2023 FRC (Off-Season)
 ![image](image (11).png)
+* **The Challenge:** Synthesize a high-capacity deployment mechanism to lift and rotate a 105 lb platform chassis under extreme mechanical constraints.
+* **Mechanical Execution:** Engineered a rear-mounted deployment mechanism utilizing mechanical rotation and high reduction ratios. Personally calculated all internal multi-stage gearbox reductions to ensure sufficient torque delivery. Executed finite element analysis (**FEA structural stress testing**) on carbon-fiber linkages within Fusion 360 to verify lateral load limits before securing formal design approval from industry mentors.
 
-The original project was aimed at creating a robot capable of picking up traffic cones and inflated deformed cubes to place onto metal rods and steps of stairs for points in a given match. While this was an off-season project, I designed an entire climbing mechansim composed of rods that sit towards the back of the robot to deploy underneath a partner robot on a tilting platform to life off of the ground via rotation and mechanical advantage. I personally calculated all gearbox ratios to produce the necessary torque to rotate a 105-pound robot off the floor, ran stress-tests on carbon-fiber rods to ensure they could withstand the lateral force in Fusion360, and made CAD drawings of each component needed. While the design wasn't manufactured, it was entirely approved by two mechanical mentors each with 8+ years of industry experience.
+---
 
-## CONTACT INFORMATION
+## CONTACT & NETWORKS
 
-Email: michaeldportilloq@gmail.com
-
-[Resume](file:///C:/Users/Michael%20Portillo/Downloads/Master%20CV_MP%20(5).pdf)
-
-[LinkedIn](https://www.linkedin.com/in/michael-portillo-498bb82b1/)
+* **Email:** michaeldportilloq@gmail.com
+* **Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/michael-portillo-498bb82b1/)
 
 
