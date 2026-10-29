@@ -43,10 +43,10 @@ I'm excited to collaborate on projects that push the boundaries of human-robot i
 * **The Challenge:** Formulate and prototype an active analog front-end board to acquire, filter, and amplify physiological cardiac biopotentials.
 * **Electrical Execution:** Designed active high-pass, low-pass, and voltage-follower filter cascades coupled with instrumentation amplifiers in Autodesk Fusion. Calculated theoretical passive component values to isolate precise target frequencies, validated the hardware on an NI ELVIS II platform, and executed final component soldering.
 
-### High-Load Scissor Lift & Active Intake Architecture | 2025 VEXU Robotics
+### Active Intake Architecture | 2025 VEXU Robotics
 ![image](image (6).png) ![image](image (5).png)
-* **The Challenge:** Design and manufacture an elite, high-efficiency mobile robotics platform capable of precise object manipulation and structural suspension climbing.
-* **Mechanical Execution:** Served as Mechanical Team Lead managing 15 engineers through rigorous design reviews. Co-developed a heavy-duty, high-torque scissor lift mechanism alongside an Aerospace PhD student to elevate the entire platform chassis. Designed an optimized intake roller and conveyor deployment loop that achieved world-class scoring efficiencies, driving the team to become **2025 VEX AI World Champions**.
+* **The Challenge:** Design and manufacture an elite, high-efficiency mobile robotics platform capable of precise object manipulation.
+* **Mechanical Execution:** Served as Mechanical Team Lead managing 15 engineers through rigorous design reviews. Designed an optimized intake roller and conveyor deployment loop that achieved world-class scoring efficiencies, driving the team to become **2025 VEX AI World Champions**.
 
 ### High-Extension Linear Slider & Material Handling Subsystems | 2024 VEXU Robotics
 ![image](image (7).png) ![image](image (8).png) ![image](image (9).png)
